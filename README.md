@@ -57,6 +57,25 @@ Below are some of the featured dashboards in this repository. Each project inclu
 >*(SCA)<img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/ecf836cc-0455-4c35-974b-f1bd27044870" />
 
 
+powerbi-projects/
+│
+├── car-supply-chain-dashboard/
+│   ├── dashboard.pbix
+│   └── README.md
+│
+├── hr-analytics-dashboard/
+│   ├── dashboard.pbix
+│   └── README.md
+│
+├── ecommerce-sales-dashboard/
+│   ├── dashboard.pbix
+│   └── README.md
+│
+└── finance-performance-dashboard/
+    ├── dashboard.pbix
+    └── README.md
+
+
 🤝 Contributions
 
 Have ideas for new dashboards or improvements?
