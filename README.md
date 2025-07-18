@@ -58,6 +58,7 @@ Below are some of the featured dashboards in this repository. Each project inclu
 
 
 🤝 Contributions
+
 Have ideas for new dashboards or improvements?
 You're welcome to open an issue or submit a pull request. Let's grow this portfolio together.
 
