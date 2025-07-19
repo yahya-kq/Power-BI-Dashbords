@@ -2,7 +2,7 @@
 
 Welcome to my **Power BI Projects Repository** — a curated collection of **real-world business intelligence dashboards** and data analysis case studies. Each project reflects my capability in transforming raw datasets into **interactive, actionable, and visually compelling insights** using **Power BI**.
 
----
+
 
 ## 🎯 Why Power BI?
 
@@ -12,7 +12,7 @@ Power BI is more than a visualization tool — it’s a complete data storytelli
 - Design user-friendly dashboards  
 - Deliver insights that support smart decision-making
 
----
+
 
 ## 📁 Projects Included
 
@@ -37,7 +37,6 @@ Below are some of the featured dashboards in this repository. Each project inclu
 
 *(More dashboards coming soon — stay tuned!)*
 
----
 
 ## 🛠 Tools & Skills Used
 
@@ -48,7 +47,6 @@ Below are some of the featured dashboards in this repository. Each project inclu
 - **Custom Visuals & KPIs**
 - **Interactive Filtering, Slicers, and Drill-throughs**
 
----
 
 ## 📸 Dashboard Snapshots
 
@@ -57,16 +55,18 @@ Below are some of the featured dashboards in this repository. Each project inclu
 >*(SCA)<img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/ecf836cc-0455-4c35-974b-f1bd27044870" />
 
 
-🤝 Contributions
+## 🤝 Contributions
 
 Have ideas for new dashboards or improvements?
 You're welcome to open an issue or submit a pull request. Let's grow this portfolio together.
 
-📬 Contact
-For collaboration, feedback, or freelance Power BI work:
+## 📬 Contact
+
+For collaboration,
 
 📧 yahyaqureshi012@gmail.com
-🔗 LinkedIn Profile www.linkedin.com/in/yahya-qureshi012
+
+LinkedIn Profile : www.linkedin.com/in/yahya-qureshi012
 
 
 ## If you like what you see, please give this repo a ⭐ and share it with others!
