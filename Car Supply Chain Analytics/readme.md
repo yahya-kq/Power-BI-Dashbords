@@ -3,7 +3,7 @@
 Welcome to the **Car Supply Chain Analytics Dashboard** project!  
 This project focuses on analyzing and visualizing data related to the **automotive supply chain**, offering insights into **sales trends, shipping modes, and customer demographics** through Python and Power BI.
 
----
+
 
 ## 📌 Overview
 
@@ -15,7 +15,6 @@ This end-to-end analytics solution integrates:
 
 The goal is to showcase the power of combining Python and Power BI for data-driven decision-making in supply chain management.
 
----
 
 ## ✨ Features
 
@@ -31,7 +30,6 @@ The goal is to showcase the power of combining Python and Power BI for data-driv
 - **🧮 Data Analysis with Pandas**  
   - Conducted exploratory data analysis (EDA) to validate, clean, and understand the dataset before visualization.
 
----
 
 ## 🚀 Getting Started
 
